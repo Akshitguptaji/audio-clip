@@ -1,0 +1,15 @@
+/* src/assets/style.css */
+/* Wavesurfer basic styling */
+wave {
+  display: block !important;
+  position: relative !important;
+  user-select: none !important;
+  overflow: hidden !important;
+}
+#waveform-container {
+  width: 100%;
+  height: 120px;
+  background: #f9f9f9;
+  border-radius: 8px;
+  border: 1px solid #ddd;
+}
